@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Vladimir 👋
 
-<!--
-**Dissperss/Dissperss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on React and TypeScript.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React
+- TypeScript
+- JavaScript
+- Zustand
+- React Hook Form
+- Zod
+- REST API
+- Docker
+- Vite
+- Webpack
+
+## Featured Project
+
+### NeoBank
+
+Online banking credit card application module.
+
+Features:
+- React + TypeScript
+- Zustand state management
+- React Hook Form + Zod validation
+- REST API integration
+- Docker backend environment
+- Feature-Sliced Design architecture
+
+🔗 Live Demo:
+[NeoBank Demo](https://neo-bank-xxx.vercel.app/)
+
+🔗 Repository:
+[NeoBank GitHub](https://github.com/Dissperss/NeoBank)
+
+## Education
+
+- Master's Degree in Finance and Credit
+- NeoFlex Frontend Development Program
+
+## Contacts
+
+Telegram: @dissperss
+Email: subbotin.vladimir2018@ya.ru
